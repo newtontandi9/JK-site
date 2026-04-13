@@ -1,0 +1,15 @@
+{
+  "short_name": "JK World",
+  "name": "Newton's JK World",
+  "icons": [
+    {
+      "src": "image1.jpg",
+      "sizes": "192x192",
+      "type": "image/jpg"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#1a1a1a",
+  "background_color": "#1a1a1a"
+}
